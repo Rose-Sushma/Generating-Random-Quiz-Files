@@ -1,0 +1,404 @@
+
+Name: 
+Date: 
+Class: 
+                    Random Quiz Generator - Question Paper - 11
+
+#1 What is the capital of state Indiana?
+
+    A. Raleigh
+    B. Columbus
+    C. Jefferson City
+    D. Indianapolis
+
+
+#2 What is the capital of state Connecticut?
+
+    A. Lincoln
+    B. Hartford
+    C. Salt Lake City
+    D. Madison
+
+
+#3 What is the capital of state Massachusetts?
+
+    A. Springfield
+    B. Richmond
+    C. Boston
+    D. Bismarck
+
+
+#4 What is the capital of state Oregon?
+
+    A. Salem
+    B. Columbia
+    C. Springfield
+    D. Boise
+
+
+#5 What is the capital of state Mississippi?
+
+    A. Jackson
+    B. Madison
+    C. Helena
+    D. Topeka
+
+
+#6 What is the capital of state New Hampshire?
+
+    A. Concord
+    B. Dover
+    C. Santa Fe
+    D. Richmond
+
+
+#7 What is the capital of state Maryland?
+
+    A. Montpelier
+    B. Des Moines
+    C. Boise
+    D. Annapolis
+
+
+#8 What is the capital of state Tennessee?
+
+    A. Baton Rouge
+    B. Carson City
+    C. Nashville
+    D. Harrisburg
+
+
+#9 What is the capital of state Rhode Island?
+
+    A. Concord
+    B. Richmond
+    C. Phoenix
+    D. Providence
+
+
+#10 What is the capital of state Kentucky?
+
+    A. Providence
+    B. Springfield
+    C. Frankfort
+    D. Annapolis
+
+
+#11 What is the capital of state Alaska?
+
+    A. Juneau
+    B. Jefferson City
+    C. Oklahoma City
+    D. Cheyenne
+
+
+#12 What is the capital of state Indiana?
+
+    A. Salem
+    B. Saint Paul
+    C. Harrisburg
+    D. Indianapolis
+
+
+#13 What is the capital of state South Carolina?
+
+    A. Columbia
+    B. Pierre
+    C. Jefferson City
+    D. Springfield
+
+
+#14 What is the capital of state Michigan?
+
+    A. Lincoln
+    B. Saint Paul
+    C. Frankfort
+    D. Lansing
+
+
+#15 What is the capital of state South Carolina?
+
+    A. Harrisburg
+    B. Columbia
+    C. Jackson
+    D. Lansing
+
+
+#16 What is the capital of state Nevada?
+
+    A. Carson City
+    B. Providence
+    C. Austin
+    D. Dover
+
+
+#17 What is the capital of state Utah?
+
+    A. Salt Lake City
+    B. Pierre
+    C. Boise
+    D. Springfield
+
+
+#18 What is the capital of state Louisiana?
+
+    A. Charleston
+    B. Boise
+    C. Columbia
+    D. Baton Rouge
+
+
+#19 What is the capital of state New York?
+
+    A. Albany
+    B. Juneau
+    C. Des Moines
+    D. Carson City
+
+
+#20 What is the capital of state Vermont?
+
+    A. Carson City
+    B. Montpelier
+    C. Sacramento
+    D. Charleston
+
+
+#21 What is the capital of state Connecticut?
+
+    A. Columbus
+    B. Hartford
+    C. Pierre
+    D. Jefferson City
+
+
+#22 What is the capital of state New York?
+
+    A. Albany
+    B. Pierre
+    C. Bismarck
+    D. Salt Lake City
+
+
+#23 What is the capital of state Michigan?
+
+    A. Lansing
+    B. Charleston
+    C. Helena
+    D. Nashville
+
+
+#24 What is the capital of state Alaska?
+
+    A. Salt Lake City
+    B. Juneau
+    C. Columbia
+    D. Baton Rouge
+
+
+#25 What is the capital of state Nevada?
+
+    A. Boston
+    B. Austin
+    C. Carson City
+    D. Augusta
+
+
+#26 What is the capital of state New Mexico?
+
+    A. Richmond
+    B. Santa Fe
+    C. Charleston
+    D. Trenton
+
+
+#27 What is the capital of state California?
+
+    A. Sacramento
+    B. Providence
+    C. Augusta
+    D. Cheyenne
+
+
+#28 What is the capital of state Virginia?
+
+    A. Providence
+    B. Jefferson City
+    C. Richmond
+    D. Des Moines
+
+
+#29 What is the capital of state Texas?
+
+    A. Lincoln
+    B. Austin
+    C. Santa Fe
+    D. Frankfort
+
+
+#30 What is the capital of state Utah?
+
+    A. Salt Lake City
+    B. Boise
+    C. Salem
+    D. Indianapolis
+
+
+#31 What is the capital of state Texas?
+
+    A. Austin
+    B. Topeka
+    C. Montpelier
+    D. Frankfort
+
+
+#32 What is the capital of state Iowa?
+
+    A. Des Moines
+    B. Denver
+    C. Richmond
+    D. Atlanta
+
+
+#33 What is the capital of state New Jersey?
+
+    A. Jefferson City
+    B. Honolulu
+    C. Springfield
+    D. Trenton
+
+
+#34 What is the capital of state Wisconsin?
+
+    A. Boston
+    B. Montgomery
+    C. Madison
+    D. Harrisburg
+
+
+#35 What is the capital of state Utah?
+
+    A. Lansing
+    B. Salt Lake City
+    C. Sacramento
+    D. Saint Paul
+
+
+#36 What is the capital of state Massachusetts?
+
+    A. Hartford
+    B. Sacramento
+    C. Boston
+    D. Madison
+
+
+#37 What is the capital of state Georgia?
+
+    A. Boston
+    B. Atlanta
+    C. Springfield
+    D. Raleigh
+
+
+#38 What is the capital of state Maine?
+
+    A. Concord
+    B. Saint Paul
+    C. Augusta
+    D. Santa Fe
+
+
+#39 What is the capital of state Louisiana?
+
+    A. Columbus
+    B. Baton Rouge
+    C. Lansing
+    D. Helena
+
+
+#40 What is the capital of state Wyoming?
+
+    A. Cheyenne
+    B. Juneau
+    C. Oklahoma City
+    D. Madison
+
+
+#41 What is the capital of state Indiana?
+
+    A. Baton Rouge
+    B. Lansing
+    C. Harrisburg
+    D. Indianapolis
+
+
+#42 What is the capital of state Massachusetts?
+
+    A. Salt Lake City
+    B. Cheyenne
+    C. Boston
+    D. Hartford
+
+
+#43 What is the capital of state South Carolina?
+
+    A. Jefferson City
+    B. Frankfort
+    C. Bismarck
+    D. Columbia
+
+
+#44 What is the capital of state Vermont?
+
+    A. Pierre
+    B. Bismarck
+    C. Montpelier
+    D. Olympia
+
+
+#45 What is the capital of state Wisconsin?
+
+    A. Madison
+    B. Tallahassee
+    C. Albany
+    D. Honolulu
+
+
+#46 What is the capital of state New Hampshire?
+
+    A. Hartford
+    B. Concord
+    C. Lansing
+    D. Harrisburg
+
+
+#47 What is the capital of state Ohio?
+
+    A. Helena
+    B. Columbus
+    C. Pierre
+    D. Montgomery
+
+
+#48 What is the capital of state Utah?
+
+    A. Sacramento
+    B. Bismarck
+    C. Lansing
+    D. Salt Lake City
+
+
+#49 What is the capital of state Rhode Island?
+
+    A. Harrisburg
+    B. Providence
+    C. Jackson
+    D. Tallahassee
+
+
+#50 What is the capital of state Georgia?
+
+    A. Harrisburg
+    B. Tallahassee
+    C. Montpelier
+    D. Atlanta

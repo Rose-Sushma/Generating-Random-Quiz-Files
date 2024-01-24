@@ -1,0 +1,404 @@
+
+Name: 
+Date: 
+Class: 
+                    Random Quiz Generator - Question Paper - 12
+
+#1 What is the capital of state Mississippi?
+
+    A. Lincoln
+    B. Topeka
+    C. Jackson
+    D. Atlanta
+
+
+#2 What is the capital of state Minnesota?
+
+    A. Saint Paul
+    B. Charleston
+    C. Austin
+    D. Boston
+
+
+#3 What is the capital of state West Virginia?
+
+    A. Jefferson City
+    B. Concord
+    C. Charleston
+    D. Oklahoma City
+
+
+#4 What is the capital of state Iowa?
+
+    A. Oklahoma City
+    B. Santa Fe
+    C. Des Moines
+    D. Honolulu
+
+
+#5 What is the capital of state North Carolina?
+
+    A. Phoenix
+    B. Baton Rouge
+    C. Harrisburg
+    D. Raleigh
+
+
+#6 What is the capital of state Connecticut?
+
+    A. Indianapolis
+    B. Hartford
+    C. Oklahoma City
+    D. Pierre
+
+
+#7 What is the capital of state Indiana?
+
+    A. Salt Lake City
+    B. Columbia
+    C. Salem
+    D. Indianapolis
+
+
+#8 What is the capital of state Oregon?
+
+    A. Sacramento
+    B. Little Rock
+    C. Salt Lake City
+    D. Salem
+
+
+#9 What is the capital of state Alaska?
+
+    A. Salt Lake City
+    B. Juneau
+    C. Saint Paul
+    D. Albany
+
+
+#10 What is the capital of state Vermont?
+
+    A. Raleigh
+    B. Montpelier
+    C. Springfield
+    D. Little Rock
+
+
+#11 What is the capital of state New York?
+
+    A. Lincoln
+    B. Frankfort
+    C. Jackson
+    D. Albany
+
+
+#12 What is the capital of state Montana?
+
+    A. Topeka
+    B. Montpelier
+    C. Helena
+    D. Sacramento
+
+
+#13 What is the capital of state Massachusetts?
+
+    A. Boston
+    B. Augusta
+    C. Columbia
+    D. Des Moines
+
+
+#14 What is the capital of state North Carolina?
+
+    A. Montgomery
+    B. Richmond
+    C. Raleigh
+    D. Topeka
+
+
+#15 What is the capital of state Texas?
+
+    A. Jefferson City
+    B. Austin
+    C. Charleston
+    D. Madison
+
+
+#16 What is the capital of state West Virginia?
+
+    A. Lansing
+    B. Concord
+    C. Charleston
+    D. Carson City
+
+
+#17 What is the capital of state Nevada?
+
+    A. Santa Fe
+    B. Augusta
+    C. Madison
+    D. Carson City
+
+
+#18 What is the capital of state Pennsylvania?
+
+    A. Nashville
+    B. Augusta
+    C. Harrisburg
+    D. Albany
+
+
+#19 What is the capital of state New Hampshire?
+
+    A. Des Moines
+    B. Juneau
+    C. Concord
+    D. Topeka
+
+
+#20 What is the capital of state Maryland?
+
+    A. Montgomery
+    B. Annapolis
+    C. Jefferson City
+    D. Honolulu
+
+
+#21 What is the capital of state New Jersey?
+
+    A. Trenton
+    B. Baton Rouge
+    C. Augusta
+    D. Hartford
+
+
+#22 What is the capital of state Washington?
+
+    A. Olympia
+    B. Montpelier
+    C. Honolulu
+    D. Phoenix
+
+
+#23 What is the capital of state New Hampshire?
+
+    A. Madison
+    B. Raleigh
+    C. Concord
+    D. Helena
+
+
+#24 What is the capital of state Tennessee?
+
+    A. Dover
+    B. Madison
+    C. Nashville
+    D. Columbus
+
+
+#25 What is the capital of state North Carolina?
+
+    A. Boston
+    B. Nashville
+    C. Columbia
+    D. Raleigh
+
+
+#26 What is the capital of state Delaware?
+
+    A. Sacramento
+    B. Madison
+    C. Dover
+    D. Indianapolis
+
+
+#27 What is the capital of state Missouri?
+
+    A. Cheyenne
+    B. Salem
+    C. Annapolis
+    D. Jefferson City
+
+
+#28 What is the capital of state Louisiana?
+
+    A. Baton Rouge
+    B. Charleston
+    C. Richmond
+    D. Sacramento
+
+
+#29 What is the capital of state Vermont?
+
+    A. Salt Lake City
+    B. Montpelier
+    C. Providence
+    D. Pierre
+
+
+#30 What is the capital of state Oregon?
+
+    A. Salem
+    B. Columbia
+    C. Indianapolis
+    D. Phoenix
+
+
+#31 What is the capital of state Pennsylvania?
+
+    A. Augusta
+    B. Little Rock
+    C. Honolulu
+    D. Harrisburg
+
+
+#32 What is the capital of state New York?
+
+    A. Annapolis
+    B. Albany
+    C. Hartford
+    D. Austin
+
+
+#33 What is the capital of state Oklahoma?
+
+    A. Oklahoma City
+    B. Boston
+    C. Montgomery
+    D. Hartford
+
+
+#34 What is the capital of state Montana?
+
+    A. Sacramento
+    B. Helena
+    C. Carson City
+    D. Providence
+
+
+#35 What is the capital of state Illinois?
+
+    A. Boston
+    B. Boise
+    C. Springfield
+    D. Indianapolis
+
+
+#36 What is the capital of state Louisiana?
+
+    A. Little Rock
+    B. Baton Rouge
+    C. Augusta
+    D. Montgomery
+
+
+#37 What is the capital of state Florida?
+
+    A. Bismarck
+    B. Albany
+    C. Tallahassee
+    D. Olympia
+
+
+#38 What is the capital of state Texas?
+
+    A. Phoenix
+    B. Olympia
+    C. Denver
+    D. Austin
+
+
+#39 What is the capital of state Indiana?
+
+    A. Honolulu
+    B. Indianapolis
+    C. Baton Rouge
+    D. Atlanta
+
+
+#40 What is the capital of state Utah?
+
+    A. Lincoln
+    B. Concord
+    C. Salt Lake City
+    D. Montgomery
+
+
+#41 What is the capital of state New York?
+
+    A. Columbus
+    B. Albany
+    C. Columbia
+    D. Annapolis
+
+
+#42 What is the capital of state Rhode Island?
+
+    A. Providence
+    B. Honolulu
+    C. Little Rock
+    D. Lincoln
+
+
+#43 What is the capital of state North Dakota?
+
+    A. Bismarck
+    B. Honolulu
+    C. Trenton
+    D. Columbia
+
+
+#44 What is the capital of state Pennsylvania?
+
+    A. Harrisburg
+    B. Concord
+    C. Jackson
+    D. Atlanta
+
+
+#45 What is the capital of state New Mexico?
+
+    A. Santa Fe
+    B. Hartford
+    C. Raleigh
+    D. Denver
+
+
+#46 What is the capital of state Vermont?
+
+    A. Oklahoma City
+    B. Montpelier
+    C. Lansing
+    D. Helena
+
+
+#47 What is the capital of state Hawaii?
+
+    A. Carson City
+    B. Honolulu
+    C. Sacramento
+    D. Little Rock
+
+
+#48 What is the capital of state New Mexico?
+
+    A. Pierre
+    B. Frankfort
+    C. Santa Fe
+    D. Richmond
+
+
+#49 What is the capital of state Georgia?
+
+    A. Atlanta
+    B. Tallahassee
+    C. Topeka
+    D. Frankfort
+
+
+#50 What is the capital of state Arkansas?
+
+    A. Bismarck
+    B. Madison
+    C. Concord
+    D. Little Rock

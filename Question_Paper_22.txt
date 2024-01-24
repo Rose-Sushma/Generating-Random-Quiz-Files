@@ -1,0 +1,404 @@
+
+Name: 
+Date: 
+Class: 
+                    Random Quiz Generator - Question Paper - 22
+
+#1 What is the capital of state Utah?
+
+    A. Olympia
+    B. Salt Lake City
+    C. Tallahassee
+    D. Jefferson City
+
+
+#2 What is the capital of state North Dakota?
+
+    A. Bismarck
+    B. Harrisburg
+    C. Baton Rouge
+    D. Honolulu
+
+
+#3 What is the capital of state New Jersey?
+
+    A. Trenton
+    B. Oklahoma City
+    C. Saint Paul
+    D. Salem
+
+
+#4 What is the capital of state Connecticut?
+
+    A. Atlanta
+    B. Austin
+    C. Hartford
+    D. Saint Paul
+
+
+#5 What is the capital of state Louisiana?
+
+    A. Augusta
+    B. Salem
+    C. Baton Rouge
+    D. Pierre
+
+
+#6 What is the capital of state Maine?
+
+    A. Santa Fe
+    B. Little Rock
+    C. Trenton
+    D. Augusta
+
+
+#7 What is the capital of state Oregon?
+
+    A. Baton Rouge
+    B. Hartford
+    C. Sacramento
+    D. Salem
+
+
+#8 What is the capital of state South Carolina?
+
+    A. Boise
+    B. Providence
+    C. Columbia
+    D. Oklahoma City
+
+
+#9 What is the capital of state Iowa?
+
+    A. Hartford
+    B. Pierre
+    C. Des Moines
+    D. Topeka
+
+
+#10 What is the capital of state Oklahoma?
+
+    A. Lansing
+    B. Annapolis
+    C. Oklahoma City
+    D. Columbia
+
+
+#11 What is the capital of state Oregon?
+
+    A. Saint Paul
+    B. Denver
+    C. Austin
+    D. Salem
+
+
+#12 What is the capital of state Connecticut?
+
+    A. Hartford
+    B. Austin
+    C. Frankfort
+    D. Nashville
+
+
+#13 What is the capital of state Connecticut?
+
+    A. Hartford
+    B. Helena
+    C. Cheyenne
+    D. Raleigh
+
+
+#14 What is the capital of state Nevada?
+
+    A. Trenton
+    B. Annapolis
+    C. Jefferson City
+    D. Carson City
+
+
+#15 What is the capital of state Oklahoma?
+
+    A. Columbus
+    B. Oklahoma City
+    C. Baton Rouge
+    D. Madison
+
+
+#16 What is the capital of state Connecticut?
+
+    A. Tallahassee
+    B. Springfield
+    C. Helena
+    D. Hartford
+
+
+#17 What is the capital of state Hawaii?
+
+    A. Boise
+    B. Frankfort
+    C. Honolulu
+    D. Columbus
+
+
+#18 What is the capital of state Missouri?
+
+    A. Austin
+    B. Jefferson City
+    C. Salt Lake City
+    D. Hartford
+
+
+#19 What is the capital of state Alabama?
+
+    A. Baton Rouge
+    B. Phoenix
+    C. Salem
+    D. Montgomery
+
+
+#20 What is the capital of state Utah?
+
+    A. Augusta
+    B. Indianapolis
+    C. Baton Rouge
+    D. Salt Lake City
+
+
+#21 What is the capital of state Michigan?
+
+    A. Boise
+    B. Frankfort
+    C. Columbia
+    D. Lansing
+
+
+#22 What is the capital of state Utah?
+
+    A. Frankfort
+    B. Richmond
+    C. Salt Lake City
+    D. Bismarck
+
+
+#23 What is the capital of state Virginia?
+
+    A. Jackson
+    B. Baton Rouge
+    C. Richmond
+    D. Olympia
+
+
+#24 What is the capital of state New Jersey?
+
+    A. Madison
+    B. Santa Fe
+    C. Trenton
+    D. Frankfort
+
+
+#25 What is the capital of state Arkansas?
+
+    A. Salem
+    B. Baton Rouge
+    C. Little Rock
+    D. Pierre
+
+
+#26 What is the capital of state New York?
+
+    A. Little Rock
+    B. Charleston
+    C. Albany
+    D. Augusta
+
+
+#27 What is the capital of state New Jersey?
+
+    A. Annapolis
+    B. Raleigh
+    C. Baton Rouge
+    D. Trenton
+
+
+#28 What is the capital of state Indiana?
+
+    A. Baton Rouge
+    B. Tallahassee
+    C. Charleston
+    D. Indianapolis
+
+
+#29 What is the capital of state Wisconsin?
+
+    A. Augusta
+    B. Springfield
+    C. Madison
+    D. Little Rock
+
+
+#30 What is the capital of state Kentucky?
+
+    A. Frankfort
+    B. Saint Paul
+    C. Santa Fe
+    D. Topeka
+
+
+#31 What is the capital of state Arkansas?
+
+    A. Santa Fe
+    B. Jefferson City
+    C. Little Rock
+    D. Augusta
+
+
+#32 What is the capital of state Maryland?
+
+    A. Annapolis
+    B. Montpelier
+    C. Phoenix
+    D. Des Moines
+
+
+#33 What is the capital of state Missouri?
+
+    A. Jefferson City
+    B. Nashville
+    C. Boston
+    D. Providence
+
+
+#34 What is the capital of state New Hampshire?
+
+    A. Pierre
+    B. Cheyenne
+    C. Concord
+    D. Bismarck
+
+
+#35 What is the capital of state New Jersey?
+
+    A. Trenton
+    B. Des Moines
+    C. Tallahassee
+    D. Providence
+
+
+#36 What is the capital of state Idaho?
+
+    A. Baton Rouge
+    B. Lincoln
+    C. Boise
+    D. Phoenix
+
+
+#37 What is the capital of state Mississippi?
+
+    A. Jackson
+    B. Indianapolis
+    C. Columbus
+    D. Columbia
+
+
+#38 What is the capital of state Maine?
+
+    A. Augusta
+    B. Columbus
+    C. Hartford
+    D. Des Moines
+
+
+#39 What is the capital of state Maryland?
+
+    A. Annapolis
+    B. Providence
+    C. Denver
+    D. Columbus
+
+
+#40 What is the capital of state Pennsylvania?
+
+    A. Annapolis
+    B. Harrisburg
+    C. Madison
+    D. Denver
+
+
+#41 What is the capital of state North Dakota?
+
+    A. Bismarck
+    B. Honolulu
+    C. Dover
+    D. Boise
+
+
+#42 What is the capital of state Florida?
+
+    A. Boise
+    B. Austin
+    C. Santa Fe
+    D. Tallahassee
+
+
+#43 What is the capital of state Ohio?
+
+    A. Augusta
+    B. Richmond
+    C. Columbus
+    D. Montgomery
+
+
+#44 What is the capital of state Mississippi?
+
+    A. Phoenix
+    B. Carson City
+    C. Jackson
+    D. Columbus
+
+
+#45 What is the capital of state Indiana?
+
+    A. Columbia
+    B. Bismarck
+    C. Juneau
+    D. Indianapolis
+
+
+#46 What is the capital of state Iowa?
+
+    A. Des Moines
+    B. Trenton
+    C. Springfield
+    D. Carson City
+
+
+#47 What is the capital of state Illinois?
+
+    A. Atlanta
+    B. Springfield
+    C. Saint Paul
+    D. Columbus
+
+
+#48 What is the capital of state Alaska?
+
+    A. Providence
+    B. Juneau
+    C. Nashville
+    D. Salem
+
+
+#49 What is the capital of state West Virginia?
+
+    A. Salt Lake City
+    B. Providence
+    C. Pierre
+    D. Charleston
+
+
+#50 What is the capital of state Texas?
+
+    A. Saint Paul
+    B. Austin
+    C. Topeka
+    D. Trenton
