@@ -1,0 +1,404 @@
+
+Name: 
+Date: 
+Class: 
+                    Random Quiz Generator - Question Paper - 10
+
+#1 What is the capital of state New Jersey?
+
+    A. Boston
+    B. Salt Lake City
+    C. Trenton
+    D. Springfield
+
+
+#2 What is the capital of state New Jersey?
+
+    A. Augusta
+    B. Trenton
+    C. Cheyenne
+    D. Pierre
+
+
+#3 What is the capital of state Alabama?
+
+    A. Charleston
+    B. Annapolis
+    C. Montgomery
+    D. Pierre
+
+
+#4 What is the capital of state Indiana?
+
+    A. Boise
+    B. Trenton
+    C. Indianapolis
+    D. Little Rock
+
+
+#5 What is the capital of state Connecticut?
+
+    A. Hartford
+    B. Columbus
+    C. Springfield
+    D. Montgomery
+
+
+#6 What is the capital of state Wisconsin?
+
+    A. Madison
+    B. Olympia
+    C. Juneau
+    D. Frankfort
+
+
+#7 What is the capital of state Delaware?
+
+    A. Lincoln
+    B. Columbus
+    C. Salt Lake City
+    D. Dover
+
+
+#8 What is the capital of state Texas?
+
+    A. Austin
+    B. Topeka
+    C. Montpelier
+    D. Tallahassee
+
+
+#9 What is the capital of state Colorado?
+
+    A. Topeka
+    B. Phoenix
+    C. Denver
+    D. Lansing
+
+
+#10 What is the capital of state Nevada?
+
+    A. Madison
+    B. Carson City
+    C. Montgomery
+    D. Oklahoma City
+
+
+#11 What is the capital of state New Hampshire?
+
+    A. Little Rock
+    B. Honolulu
+    C. Concord
+    D. Pierre
+
+
+#12 What is the capital of state Florida?
+
+    A. Boise
+    B. Lansing
+    C. Cheyenne
+    D. Tallahassee
+
+
+#13 What is the capital of state Hawaii?
+
+    A. Albany
+    B. Honolulu
+    C. Helena
+    D. Austin
+
+
+#14 What is the capital of state Alaska?
+
+    A. Juneau
+    B. Austin
+    C. Columbia
+    D. Boston
+
+
+#15 What is the capital of state Massachusetts?
+
+    A. Denver
+    B. Helena
+    C. Boston
+    D. Montpelier
+
+
+#16 What is the capital of state South Dakota?
+
+    A. Austin
+    B. Pierre
+    C. Baton Rouge
+    D. Raleigh
+
+
+#17 What is the capital of state Utah?
+
+    A. Salt Lake City
+    B. Trenton
+    C. Charleston
+    D. Oklahoma City
+
+
+#18 What is the capital of state New Hampshire?
+
+    A. Lincoln
+    B. Jackson
+    C. Frankfort
+    D. Concord
+
+
+#19 What is the capital of state Rhode Island?
+
+    A. Providence
+    B. Phoenix
+    C. Salt Lake City
+    D. Oklahoma City
+
+
+#20 What is the capital of state Pennsylvania?
+
+    A. Carson City
+    B. Cheyenne
+    C. Trenton
+    D. Harrisburg
+
+
+#21 What is the capital of state New Mexico?
+
+    A. Harrisburg
+    B. Des Moines
+    C. Santa Fe
+    D. Jefferson City
+
+
+#22 What is the capital of state Indiana?
+
+    A. Indianapolis
+    B. Trenton
+    C. Atlanta
+    D. Hartford
+
+
+#23 What is the capital of state West Virginia?
+
+    A. Charleston
+    B. Austin
+    C. Pierre
+    D. Indianapolis
+
+
+#24 What is the capital of state North Carolina?
+
+    A. Montgomery
+    B. Raleigh
+    C. Montpelier
+    D. Baton Rouge
+
+
+#25 What is the capital of state Utah?
+
+    A. Topeka
+    B. Indianapolis
+    C. Salt Lake City
+    D. Springfield
+
+
+#26 What is the capital of state California?
+
+    A. Springfield
+    B. Lincoln
+    C. Des Moines
+    D. Sacramento
+
+
+#27 What is the capital of state Massachusetts?
+
+    A. Salem
+    B. Boston
+    C. Atlanta
+    D. Hartford
+
+
+#28 What is the capital of state Connecticut?
+
+    A. Hartford
+    B. Richmond
+    C. Indianapolis
+    D. Springfield
+
+
+#29 What is the capital of state Oregon?
+
+    A. Madison
+    B. Pierre
+    C. Salem
+    D. Montgomery
+
+
+#30 What is the capital of state Wyoming?
+
+    A. Baton Rouge
+    B. Oklahoma City
+    C. Cheyenne
+    D. Springfield
+
+
+#31 What is the capital of state South Dakota?
+
+    A. Pierre
+    B. Tallahassee
+    C. Saint Paul
+    D. Charleston
+
+
+#32 What is the capital of state North Dakota?
+
+    A. Pierre
+    B. Bismarck
+    C. Salem
+    D. Madison
+
+
+#33 What is the capital of state Nevada?
+
+    A. Carson City
+    B. Sacramento
+    C. Montgomery
+    D. Dover
+
+
+#34 What is the capital of state Utah?
+
+    A. Salt Lake City
+    B. Honolulu
+    C. Madison
+    D. Charleston
+
+
+#35 What is the capital of state New Mexico?
+
+    A. Annapolis
+    B. Tallahassee
+    C. Santa Fe
+    D. Providence
+
+
+#36 What is the capital of state Oklahoma?
+
+    A. Columbia
+    B. Oklahoma City
+    C. Juneau
+    D. Tallahassee
+
+
+#37 What is the capital of state West Virginia?
+
+    A. Montpelier
+    B. Dover
+    C. Charleston
+    D. Providence
+
+
+#38 What is the capital of state Virginia?
+
+    A. Baton Rouge
+    B. Harrisburg
+    C. Richmond
+    D. Charleston
+
+
+#39 What is the capital of state Colorado?
+
+    A. Salem
+    B. Denver
+    C. Charleston
+    D. Lincoln
+
+
+#40 What is the capital of state Tennessee?
+
+    A. Annapolis
+    B. Montpelier
+    C. Austin
+    D. Nashville
+
+
+#41 What is the capital of state Idaho?
+
+    A. Trenton
+    B. Columbia
+    C. Jefferson City
+    D. Boise
+
+
+#42 What is the capital of state North Carolina?
+
+    A. Baton Rouge
+    B. Columbus
+    C. Springfield
+    D. Raleigh
+
+
+#43 What is the capital of state Ohio?
+
+    A. Columbus
+    B. Oklahoma City
+    C. Montpelier
+    D. Springfield
+
+
+#44 What is the capital of state Ohio?
+
+    A. Albany
+    B. Helena
+    C. Columbus
+    D. Lincoln
+
+
+#45 What is the capital of state Montana?
+
+    A. Tallahassee
+    B. Helena
+    C. Providence
+    D. Atlanta
+
+
+#46 What is the capital of state California?
+
+    A. Sacramento
+    B. Montpelier
+    C. Harrisburg
+    D. Trenton
+
+
+#47 What is the capital of state Massachusetts?
+
+    A. Charleston
+    B. Boston
+    C. Raleigh
+    D. Helena
+
+
+#48 What is the capital of state Florida?
+
+    A. Tallahassee
+    B. Honolulu
+    C. Santa Fe
+    D. Salem
+
+
+#49 What is the capital of state Wisconsin?
+
+    A. Lincoln
+    B. Madison
+    C. Denver
+    D. Topeka
+
+
+#50 What is the capital of state Utah?
+
+    A. Trenton
+    B. Salt Lake City
+    C. Cheyenne
+    D. Frankfort

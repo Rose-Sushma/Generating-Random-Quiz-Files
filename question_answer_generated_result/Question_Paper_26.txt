@@ -1,0 +1,404 @@
+
+Name: 
+Date: 
+Class: 
+                    Random Quiz Generator - Question Paper - 26
+
+#1 What is the capital of state Alaska?
+
+    A. Concord
+    B. Raleigh
+    C. Richmond
+    D. Juneau
+
+
+#2 What is the capital of state Iowa?
+
+    A. Montpelier
+    B. Santa Fe
+    C. Des Moines
+    D. Tallahassee
+
+
+#3 What is the capital of state Vermont?
+
+    A. Bismarck
+    B. Montpelier
+    C. Raleigh
+    D. Albany
+
+
+#4 What is the capital of state Arkansas?
+
+    A. Salem
+    B. Jefferson City
+    C. Providence
+    D. Little Rock
+
+
+#5 What is the capital of state Georgia?
+
+    A. Salt Lake City
+    B. Baton Rouge
+    C. Lansing
+    D. Atlanta
+
+
+#6 What is the capital of state Colorado?
+
+    A. Boston
+    B. Trenton
+    C. Baton Rouge
+    D. Denver
+
+
+#7 What is the capital of state Arkansas?
+
+    A. Saint Paul
+    B. Jefferson City
+    C. Little Rock
+    D. Oklahoma City
+
+
+#8 What is the capital of state Connecticut?
+
+    A. Indianapolis
+    B. Montpelier
+    C. Hartford
+    D. Baton Rouge
+
+
+#9 What is the capital of state Washington?
+
+    A. Olympia
+    B. Lansing
+    C. Helena
+    D. Austin
+
+
+#10 What is the capital of state South Carolina?
+
+    A. Des Moines
+    B. Nashville
+    C. Concord
+    D. Columbia
+
+
+#11 What is the capital of state Maine?
+
+    A. Madison
+    B. Augusta
+    C. Albany
+    D. Salt Lake City
+
+
+#12 What is the capital of state Delaware?
+
+    A. Dover
+    B. Lincoln
+    C. Hartford
+    D. Montpelier
+
+
+#13 What is the capital of state Maryland?
+
+    A. Dover
+    B. Denver
+    C. Annapolis
+    D. Raleigh
+
+
+#14 What is the capital of state New Hampshire?
+
+    A. Concord
+    B. Pierre
+    C. Charleston
+    D. Raleigh
+
+
+#15 What is the capital of state North Dakota?
+
+    A. Richmond
+    B. Bismarck
+    C. Phoenix
+    D. Juneau
+
+
+#16 What is the capital of state Minnesota?
+
+    A. Carson City
+    B. Saint Paul
+    C. Annapolis
+    D. Phoenix
+
+
+#17 What is the capital of state New Jersey?
+
+    A. Annapolis
+    B. Springfield
+    C. Trenton
+    D. Columbus
+
+
+#18 What is the capital of state North Dakota?
+
+    A. Honolulu
+    B. Bismarck
+    C. Dover
+    D. Jefferson City
+
+
+#19 What is the capital of state New York?
+
+    A. Salt Lake City
+    B. Albany
+    C. Springfield
+    D. Hartford
+
+
+#20 What is the capital of state Alabama?
+
+    A. Providence
+    B. Tallahassee
+    C. Columbia
+    D. Montgomery
+
+
+#21 What is the capital of state Hawaii?
+
+    A. Atlanta
+    B. Honolulu
+    C. Lincoln
+    D. Carson City
+
+
+#22 What is the capital of state Colorado?
+
+    A. Indianapolis
+    B. Denver
+    C. Richmond
+    D. Juneau
+
+
+#23 What is the capital of state Oklahoma?
+
+    A. Columbia
+    B. Oklahoma City
+    C. Jackson
+    D. Annapolis
+
+
+#24 What is the capital of state New York?
+
+    A. Albany
+    B. Cheyenne
+    C. Nashville
+    D. Montpelier
+
+
+#25 What is the capital of state Missouri?
+
+    A. Jefferson City
+    B. Cheyenne
+    C. Montpelier
+    D. Denver
+
+
+#26 What is the capital of state Delaware?
+
+    A. Jackson
+    B. Harrisburg
+    C. Sacramento
+    D. Dover
+
+
+#27 What is the capital of state Delaware?
+
+    A. Carson City
+    B. Annapolis
+    C. Dover
+    D. Tallahassee
+
+
+#28 What is the capital of state Arkansas?
+
+    A. Bismarck
+    B. Lansing
+    C. Annapolis
+    D. Little Rock
+
+
+#29 What is the capital of state Virginia?
+
+    A. Olympia
+    B. Richmond
+    C. Bismarck
+    D. Madison
+
+
+#30 What is the capital of state Hawaii?
+
+    A. Indianapolis
+    B. Boston
+    C. Honolulu
+    D. Albany
+
+
+#31 What is the capital of state Iowa?
+
+    A. Pierre
+    B. Raleigh
+    C. Richmond
+    D. Des Moines
+
+
+#32 What is the capital of state Pennsylvania?
+
+    A. Columbia
+    B. Harrisburg
+    C. Annapolis
+    D. Santa Fe
+
+
+#33 What is the capital of state California?
+
+    A. Richmond
+    B. Oklahoma City
+    C. Sacramento
+    D. Helena
+
+
+#34 What is the capital of state Tennessee?
+
+    A. Charleston
+    B. Nashville
+    C. Boise
+    D. Springfield
+
+
+#35 What is the capital of state Illinois?
+
+    A. Springfield
+    B. Jefferson City
+    C. Tallahassee
+    D. Jackson
+
+
+#36 What is the capital of state West Virginia?
+
+    A. Sacramento
+    B. Des Moines
+    C. Austin
+    D. Charleston
+
+
+#37 What is the capital of state Pennsylvania?
+
+    A. Columbia
+    B. Lansing
+    C. Harrisburg
+    D. Phoenix
+
+
+#38 What is the capital of state West Virginia?
+
+    A. Albany
+    B. Montgomery
+    C. Tallahassee
+    D. Charleston
+
+
+#39 What is the capital of state Oklahoma?
+
+    A. Montgomery
+    B. Charleston
+    C. Olympia
+    D. Oklahoma City
+
+
+#40 What is the capital of state New Jersey?
+
+    A. Trenton
+    B. Annapolis
+    C. Bismarck
+    D. Helena
+
+
+#41 What is the capital of state Ohio?
+
+    A. Jackson
+    B. Dover
+    C. Montgomery
+    D. Columbus
+
+
+#42 What is the capital of state Maryland?
+
+    A. Little Rock
+    B. Concord
+    C. Helena
+    D. Annapolis
+
+
+#43 What is the capital of state Virginia?
+
+    A. Richmond
+    B. Madison
+    C. Austin
+    D. Baton Rouge
+
+
+#44 What is the capital of state Connecticut?
+
+    A. Lincoln
+    B. Little Rock
+    C. Springfield
+    D. Hartford
+
+
+#45 What is the capital of state Illinois?
+
+    A. Springfield
+    B. Frankfort
+    C. Saint Paul
+    D. Lansing
+
+
+#46 What is the capital of state New Hampshire?
+
+    A. Baton Rouge
+    B. Concord
+    C. Juneau
+    D. Helena
+
+
+#47 What is the capital of state North Carolina?
+
+    A. Salem
+    B. Atlanta
+    C. Bismarck
+    D. Raleigh
+
+
+#48 What is the capital of state Tennessee?
+
+    A. Saint Paul
+    B. Lincoln
+    C. Pierre
+    D. Nashville
+
+
+#49 What is the capital of state Vermont?
+
+    A. Pierre
+    B. Salt Lake City
+    C. Albany
+    D. Montpelier
+
+
+#50 What is the capital of state Indiana?
+
+    A. Richmond
+    B. Indianapolis
+    C. Oklahoma City
+    D. Salt Lake City
